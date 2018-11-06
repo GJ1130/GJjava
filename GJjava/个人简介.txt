@@ -15,3 +15,39 @@ JSON的数据格式   javascript轻量级的数据格式
           具体表现:
                 {“name”:”高金”}
                {“imgs”:[“a.jpg”,”b.jpg”,”c.jpg”]}
+view:视图，是个父容器
+view相当于html的div
+swiper:滚动视图
+item:代表的值
+index：代表的下标
+topimages:轮播图的静态
+audio:音频播放
+video:视频播放
+
+宽度：width;
+高度：height;
+外边距：margin;
+换行：wrap;
+视频组件：video;
+audio:音频组件
+bindtap:点击组件
+var:js定义变量
+top:顶部 content:中间内容区 bottom：底部 row:行 column:列
+单元格：cell 边框：border 实心线:solid
+水平居中：justify-content:center;
+垂直居中：align-items:center;
+水平分散：justify-content:space-between;
+
+
+
+弹性布局：display:flex;
+布局方向：flex-direction;
+字体的属性：font-family:楷体； font-style:italic(字体倾斜)；
+
+indicator-dots='true':指示器是个点
+autoplay='true' :自动播放
+duration：持续时间
+interval:间隔时间
+indicator-active-color:轮播点的颜色
+swiper-item:轮播图的每项
+
